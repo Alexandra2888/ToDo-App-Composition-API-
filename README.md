@@ -4,7 +4,7 @@
 https://jocular-gnome-34eef2.netlify.app/
 
 
-<img src="https://github.com/Alexandra2888/ToDo-App-Composition-API-/blob/main/todo.jpg alt="todo"/>
+<img src="https://github.com/Alexandra2888/ToDo-App-Composition-API-/blob/main/todo.jpg" alt="todo"/>
 
 ## Project setup
 ```
