@@ -1,5 +1,8 @@
 # to-do-app
 
+# You can see it live here:
+https://jocular-gnome-34eef2.netlify.app/
+
 ## Project setup
 ```
 npm install
