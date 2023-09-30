@@ -4,7 +4,6 @@
 https://jocular-gnome-34eef2.netlify.app/
 
 
-<img src="https://github.com/Alexandra2888/ToDo-App-Composition-API-/blob/main/todo.jpg" alt="todo"/>
 
 ## Project setup
 ```
@@ -28,3 +27,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![iPhone 12 Pro-1696092088287](https://github.com/Alexandra2888/ToDo-App-Composition-API-/assets/76844097/fb5a9007-55c9-4229-9d96-32a6e474981f)
+
+
+
