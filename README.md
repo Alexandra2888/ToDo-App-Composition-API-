@@ -27,8 +27,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+![Macbook Pro-1696092134905](https://github.com/Alexandra2888/ToDo-App-Composition-API-/assets/76844097/7689705f-1d63-4f8e-beab-1dc75db9458f)
 
-![iPhone 12 Pro-1696092088287](https://github.com/Alexandra2888/ToDo-App-Composition-API-/assets/76844097/fb5a9007-55c9-4229-9d96-32a6e474981f)
 
 
 
